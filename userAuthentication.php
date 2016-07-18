@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Techgig Tests</title>
+        <title>Techgig Test</title>
         <script src="js/jquery.js"></script>
         <script>
             jQuery(document).ready(function(){
